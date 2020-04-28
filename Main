@@ -1,0 +1,24 @@
+@media all and (max-width: 1126px){
+    .pageTitle {
+        display: none !important;
+    }
+    .startimg {
+        display: none !important;
+    }
+    .wsimg {
+        width: 100%;
+    }
+    .label {
+        display: none !important;
+   
+    }
+    .button-3-img tocNavLink{
+
+    }
+
+    .tocWrapper .sideTOC .tocSide_pullCollapsed .tocMobileOpen{ 
+    height: 20em; 
+    width: 20em; 
+    max-height: 100%;
+    }
+}
